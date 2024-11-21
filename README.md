@@ -8,4 +8,6 @@ Dataset can be found here: [Game Recommendations on Steam ](https://www.kaggle.c
 
 Dataset after cleaning and prepared can be found here: [Dataset](https://drive.google.com/drive/folders/1ln0QdC6ZzgXNnKgxYI_xOOBk5YxdXaCn?usp=sharing)
 
-You can refer to `visual.ipynb` for purpose of understanding more about dataset
+You can refer to `dataCleanAndVisual.ipynb` for purpose of understanding more about initial dataset and some first processing
+
+Then `dataPrepareAndVisual.ipynb` for prepare dataset to form we will work on later and visual some of its attributes
